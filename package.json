@@ -1,0 +1,14 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "npm install -g promise-it-wont-hurt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise-it-wont-hurt": "^1.0.0-alpha.2"
+  }
+}
